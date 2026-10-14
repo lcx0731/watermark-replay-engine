@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "watermark-replay-engine"
+version = "0.1.0"
+description = "Transactional event-time windows with immutable final outputs and crash-safe replay"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["matplotlib>=3.9,<4"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+
+[project.scripts]
+watermark-demo = "watermark_replay.experiment:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

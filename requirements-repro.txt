@@ -1,0 +1,18 @@
+# Verified experiment: Python 3.13.0, SQLite 3.45.3, macOS arm64.
+# SQLite comes from Python/the operating system, not pip.
+# Install the project separately with: pip install --no-deps .
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.66.1
+iniconfig==2.3.1
+kiwisolver==1.5.1
+matplotlib==3.11.2
+numpy==2.5.4
+packaging==26.3
+pillow==12.3.0
+pluggy==1.6.0
+Pygments==2.21.0
+pyparsing==3.3.3
+pytest==8.4.2
+python-dateutil==2.9.0.post0
+six==1.17.0

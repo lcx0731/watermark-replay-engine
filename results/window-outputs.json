@@ -1,0 +1,2425 @@
+{
+  "lag-0": [
+    {
+      "key": "sensor-0",
+      "start": 0,
+      "emitted_offset": 58,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 30,
+        "key": "sensor-0",
+        "maximum": 9939,
+        "minimum": 1933,
+        "start": 0,
+        "total": 59383
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 30,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 60,
+        "key": "sensor-0",
+        "maximum": 9324,
+        "minimum": 2555,
+        "start": 30,
+        "total": 51520
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 60,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 90,
+        "key": "sensor-0",
+        "maximum": 9109,
+        "minimum": 1953,
+        "start": 60,
+        "total": 54919
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 90,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 8,
+        "end": 120,
+        "key": "sensor-0",
+        "maximum": 9869,
+        "minimum": 1307,
+        "start": 90,
+        "total": 47314
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 120,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 150,
+        "key": "sensor-0",
+        "maximum": 9959,
+        "minimum": 3316,
+        "start": 120,
+        "total": 60287
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 150,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 180,
+        "key": "sensor-0",
+        "maximum": 9002,
+        "minimum": 1679,
+        "start": 150,
+        "total": 43905
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 180,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 8,
+        "end": 210,
+        "key": "sensor-0",
+        "maximum": 8719,
+        "minimum": 3254,
+        "start": 180,
+        "total": 39813
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 210,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 7,
+        "end": 240,
+        "key": "sensor-0",
+        "maximum": 9822,
+        "minimum": 2461,
+        "start": 210,
+        "total": 50418
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 240,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 7,
+        "end": 270,
+        "key": "sensor-0",
+        "maximum": 9061,
+        "minimum": 1623,
+        "start": 240,
+        "total": 42280
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-0",
+        "maximum": 9226,
+        "minimum": 2144,
+        "start": 270,
+        "total": 66815
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 0,
+      "emitted_offset": 58,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 30,
+        "key": "sensor-1",
+        "maximum": 9840,
+        "minimum": 2848,
+        "start": 0,
+        "total": 72029
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 30,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-1",
+        "maximum": 9636,
+        "minimum": 2374,
+        "start": 30,
+        "total": 62648
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 60,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-1",
+        "maximum": 8503,
+        "minimum": 1112,
+        "start": 60,
+        "total": 68120
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 90,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 120,
+        "key": "sensor-1",
+        "maximum": 9953,
+        "minimum": 1597,
+        "start": 90,
+        "total": 45216
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 120,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 150,
+        "key": "sensor-1",
+        "maximum": 9544,
+        "minimum": 1203,
+        "start": 120,
+        "total": 69319
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 150,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 180,
+        "key": "sensor-1",
+        "maximum": 8558,
+        "minimum": 2596,
+        "start": 150,
+        "total": 62077
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 180,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-1",
+        "maximum": 9675,
+        "minimum": 1320,
+        "start": 180,
+        "total": 75002
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 210,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-1",
+        "maximum": 9637,
+        "minimum": 1153,
+        "start": 210,
+        "total": 67562
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 240,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 270,
+        "key": "sensor-1",
+        "maximum": 9905,
+        "minimum": 1596,
+        "start": 240,
+        "total": 61660
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-1",
+        "maximum": 8525,
+        "minimum": 1272,
+        "start": 270,
+        "total": 53908
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 0,
+      "emitted_offset": 58,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-2",
+        "maximum": 9321,
+        "minimum": 1131,
+        "start": 0,
+        "total": 60292
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 30,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-2",
+        "maximum": 9312,
+        "minimum": 1475,
+        "start": 30,
+        "total": 74466
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 60,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-2",
+        "maximum": 9640,
+        "minimum": 1063,
+        "start": 60,
+        "total": 58624
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 90,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 120,
+        "key": "sensor-2",
+        "maximum": 9973,
+        "minimum": 2582,
+        "start": 90,
+        "total": 67968
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 120,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 150,
+        "key": "sensor-2",
+        "maximum": 7909,
+        "minimum": 2802,
+        "start": 120,
+        "total": 61941
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 150,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 180,
+        "key": "sensor-2",
+        "maximum": 9851,
+        "minimum": 1131,
+        "start": 150,
+        "total": 64825
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 180,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-2",
+        "maximum": 9020,
+        "minimum": 1974,
+        "start": 180,
+        "total": 64500
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 210,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 240,
+        "key": "sensor-2",
+        "maximum": 7273,
+        "minimum": 1088,
+        "start": 210,
+        "total": 44615
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 240,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-2",
+        "maximum": 9014,
+        "minimum": 2737,
+        "start": 240,
+        "total": 68106
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-2",
+        "maximum": 9441,
+        "minimum": 1063,
+        "start": 270,
+        "total": 81019
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 0,
+      "emitted_offset": 58,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 30,
+        "key": "sensor-3",
+        "maximum": 8084,
+        "minimum": 1285,
+        "start": 0,
+        "total": 46078
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 30,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-3",
+        "maximum": 9569,
+        "minimum": 1814,
+        "start": 30,
+        "total": 62015
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 60,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-3",
+        "maximum": 9840,
+        "minimum": 1292,
+        "start": 60,
+        "total": 60071
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 90,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 120,
+        "key": "sensor-3",
+        "maximum": 9759,
+        "minimum": 2751,
+        "start": 90,
+        "total": 53766
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 120,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-3",
+        "maximum": 8953,
+        "minimum": 1984,
+        "start": 120,
+        "total": 66803
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 150,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-3",
+        "maximum": 9091,
+        "minimum": 1002,
+        "start": 150,
+        "total": 55209
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 180,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-3",
+        "maximum": 9310,
+        "minimum": 1040,
+        "start": 180,
+        "total": 63832
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 210,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 240,
+        "key": "sensor-3",
+        "maximum": 9887,
+        "minimum": 1080,
+        "start": 210,
+        "total": 58542
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 240,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 270,
+        "key": "sensor-3",
+        "maximum": 8288,
+        "minimum": 1521,
+        "start": 240,
+        "total": 52379
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-3",
+        "maximum": 9346,
+        "minimum": 1368,
+        "start": 270,
+        "total": 63726
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 0,
+      "emitted_offset": 58,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-4",
+        "maximum": 9705,
+        "minimum": 1080,
+        "start": 0,
+        "total": 68369
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 30,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 60,
+        "key": "sensor-4",
+        "maximum": 9430,
+        "minimum": 2201,
+        "start": 30,
+        "total": 64132
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 60,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 90,
+        "key": "sensor-4",
+        "maximum": 7276,
+        "minimum": 1681,
+        "start": 60,
+        "total": 47269
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 90,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 120,
+        "key": "sensor-4",
+        "maximum": 9405,
+        "minimum": 1089,
+        "start": 90,
+        "total": 56493
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 120,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 150,
+        "key": "sensor-4",
+        "maximum": 8554,
+        "minimum": 1048,
+        "start": 120,
+        "total": 44082
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 150,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 180,
+        "key": "sensor-4",
+        "maximum": 9135,
+        "minimum": 1706,
+        "start": 150,
+        "total": 45881
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 180,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 210,
+        "key": "sensor-4",
+        "maximum": 9286,
+        "minimum": 1785,
+        "start": 180,
+        "total": 49747
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 210,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 240,
+        "key": "sensor-4",
+        "maximum": 9632,
+        "minimum": 1561,
+        "start": 210,
+        "total": 66491
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 240,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 270,
+        "key": "sensor-4",
+        "maximum": 9178,
+        "minimum": 1403,
+        "start": 240,
+        "total": 53143
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-4",
+        "maximum": 9965,
+        "minimum": 2448,
+        "start": 270,
+        "total": 76065
+      }
+    }
+  ],
+  "lag-10": [
+    {
+      "key": "sensor-0",
+      "start": 0,
+      "emitted_offset": 74,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 30,
+        "key": "sensor-0",
+        "maximum": 9939,
+        "minimum": 1933,
+        "start": 0,
+        "total": 59383
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 30,
+      "emitted_offset": 141,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 60,
+        "key": "sensor-0",
+        "maximum": 9324,
+        "minimum": 2555,
+        "start": 30,
+        "total": 56146
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 60,
+      "emitted_offset": 205,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 90,
+        "key": "sensor-0",
+        "maximum": 9109,
+        "minimum": 1269,
+        "start": 60,
+        "total": 60509
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 90,
+      "emitted_offset": 273,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 120,
+        "key": "sensor-0",
+        "maximum": 9869,
+        "minimum": 1307,
+        "start": 90,
+        "total": 58488
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 120,
+      "emitted_offset": 340,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 150,
+        "key": "sensor-0",
+        "maximum": 9959,
+        "minimum": 2757,
+        "start": 120,
+        "total": 69772
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 150,
+      "emitted_offset": 402,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 180,
+        "key": "sensor-0",
+        "maximum": 9002,
+        "minimum": 1679,
+        "start": 150,
+        "total": 53750
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 180,
+      "emitted_offset": 465,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 210,
+        "key": "sensor-0",
+        "maximum": 8719,
+        "minimum": 3254,
+        "start": 180,
+        "total": 46717
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 210,
+      "emitted_offset": 534,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 240,
+        "key": "sensor-0",
+        "maximum": 9977,
+        "minimum": 2423,
+        "start": 210,
+        "total": 71913
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 240,
+      "emitted_offset": 607,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 270,
+        "key": "sensor-0",
+        "maximum": 9061,
+        "minimum": 1623,
+        "start": 240,
+        "total": 65275
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-0",
+        "maximum": 9226,
+        "minimum": 2144,
+        "start": 270,
+        "total": 66815
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 0,
+      "emitted_offset": 74,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-1",
+        "maximum": 9840,
+        "minimum": 2848,
+        "start": 0,
+        "total": 80591
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 30,
+      "emitted_offset": 141,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-1",
+        "maximum": 9636,
+        "minimum": 2374,
+        "start": 30,
+        "total": 62648
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 60,
+      "emitted_offset": 205,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-1",
+        "maximum": 8503,
+        "minimum": 1112,
+        "start": 60,
+        "total": 68120
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 90,
+      "emitted_offset": 273,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-1",
+        "maximum": 9953,
+        "minimum": 1295,
+        "start": 90,
+        "total": 57416
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 120,
+      "emitted_offset": 340,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-1",
+        "maximum": 9544,
+        "minimum": 1203,
+        "start": 120,
+        "total": 77516
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 150,
+      "emitted_offset": 402,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-1",
+        "maximum": 8558,
+        "minimum": 2596,
+        "start": 150,
+        "total": 68496
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 180,
+      "emitted_offset": 465,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-1",
+        "maximum": 9675,
+        "minimum": 1320,
+        "start": 180,
+        "total": 75002
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 210,
+      "emitted_offset": 534,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-1",
+        "maximum": 9637,
+        "minimum": 1153,
+        "start": 210,
+        "total": 67562
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 240,
+      "emitted_offset": 607,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-1",
+        "maximum": 9905,
+        "minimum": 1596,
+        "start": 240,
+        "total": 65419
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-1",
+        "maximum": 8525,
+        "minimum": 1272,
+        "start": 270,
+        "total": 53908
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 0,
+      "emitted_offset": 74,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-2",
+        "maximum": 9321,
+        "minimum": 1131,
+        "start": 0,
+        "total": 60292
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 30,
+      "emitted_offset": 141,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-2",
+        "maximum": 9312,
+        "minimum": 1475,
+        "start": 30,
+        "total": 74466
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 60,
+      "emitted_offset": 205,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-2",
+        "maximum": 9640,
+        "minimum": 1063,
+        "start": 60,
+        "total": 58624
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 90,
+      "emitted_offset": 273,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-2",
+        "maximum": 9973,
+        "minimum": 2582,
+        "start": 90,
+        "total": 86856
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 120,
+      "emitted_offset": 340,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-2",
+        "maximum": 7909,
+        "minimum": 1094,
+        "start": 120,
+        "total": 63035
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 150,
+      "emitted_offset": 402,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-2",
+        "maximum": 9851,
+        "minimum": 1131,
+        "start": 150,
+        "total": 70695
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 180,
+      "emitted_offset": 465,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-2",
+        "maximum": 9020,
+        "minimum": 1974,
+        "start": 180,
+        "total": 64500
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 210,
+      "emitted_offset": 534,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-2",
+        "maximum": 7273,
+        "minimum": 1088,
+        "start": 210,
+        "total": 49957
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 240,
+      "emitted_offset": 607,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-2",
+        "maximum": 9014,
+        "minimum": 2737,
+        "start": 240,
+        "total": 68106
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-2",
+        "maximum": 9441,
+        "minimum": 1063,
+        "start": 270,
+        "total": 81019
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 0,
+      "emitted_offset": 74,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-3",
+        "maximum": 8534,
+        "minimum": 1285,
+        "start": 0,
+        "total": 63062
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 30,
+      "emitted_offset": 141,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-3",
+        "maximum": 9569,
+        "minimum": 1814,
+        "start": 30,
+        "total": 62015
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 60,
+      "emitted_offset": 205,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-3",
+        "maximum": 9840,
+        "minimum": 1292,
+        "start": 60,
+        "total": 60071
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 90,
+      "emitted_offset": 273,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-3",
+        "maximum": 9759,
+        "minimum": 2751,
+        "start": 90,
+        "total": 67273
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 120,
+      "emitted_offset": 340,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-3",
+        "maximum": 8953,
+        "minimum": 1984,
+        "start": 120,
+        "total": 66803
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 150,
+      "emitted_offset": 402,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-3",
+        "maximum": 9091,
+        "minimum": 1002,
+        "start": 150,
+        "total": 55209
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 180,
+      "emitted_offset": 465,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-3",
+        "maximum": 9310,
+        "minimum": 1040,
+        "start": 180,
+        "total": 63832
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 210,
+      "emitted_offset": 534,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-3",
+        "maximum": 9887,
+        "minimum": 1080,
+        "start": 210,
+        "total": 73288
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 240,
+      "emitted_offset": 607,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-3",
+        "maximum": 8288,
+        "minimum": 1521,
+        "start": 240,
+        "total": 58801
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-3",
+        "maximum": 9346,
+        "minimum": 1368,
+        "start": 270,
+        "total": 63726
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 0,
+      "emitted_offset": 74,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-4",
+        "maximum": 9705,
+        "minimum": 1080,
+        "start": 0,
+        "total": 68369
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 30,
+      "emitted_offset": 141,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-4",
+        "maximum": 9430,
+        "minimum": 2201,
+        "start": 30,
+        "total": 73426
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 60,
+      "emitted_offset": 205,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-4",
+        "maximum": 7276,
+        "minimum": 1681,
+        "start": 60,
+        "total": 58740
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 90,
+      "emitted_offset": 273,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-4",
+        "maximum": 9405,
+        "minimum": 1089,
+        "start": 90,
+        "total": 73168
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 120,
+      "emitted_offset": 340,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-4",
+        "maximum": 9760,
+        "minimum": 1048,
+        "start": 120,
+        "total": 53842
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 150,
+      "emitted_offset": 402,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-4",
+        "maximum": 9135,
+        "minimum": 1706,
+        "start": 150,
+        "total": 60441
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 180,
+      "emitted_offset": 465,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-4",
+        "maximum": 9286,
+        "minimum": 1785,
+        "start": 180,
+        "total": 62285
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 210,
+      "emitted_offset": 534,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-4",
+        "maximum": 9632,
+        "minimum": 1561,
+        "start": 210,
+        "total": 72364
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 240,
+      "emitted_offset": 607,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-4",
+        "maximum": 9178,
+        "minimum": 1403,
+        "start": 240,
+        "total": 63607
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-4",
+        "maximum": 9965,
+        "minimum": 2448,
+        "start": 270,
+        "total": 76065
+      }
+    }
+  ],
+  "lag-30": [
+    {
+      "key": "sensor-0",
+      "start": 0,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-0",
+        "maximum": 9939,
+        "minimum": 1933,
+        "start": 0,
+        "total": 68654
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 30,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-0",
+        "maximum": 9324,
+        "minimum": 2555,
+        "start": 30,
+        "total": 61324
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 60,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-0",
+        "maximum": 9109,
+        "minimum": 1269,
+        "start": 60,
+        "total": 65913
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 90,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 120,
+        "key": "sensor-0",
+        "maximum": 9869,
+        "minimum": 1307,
+        "start": 90,
+        "total": 63255
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 120,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 150,
+        "key": "sensor-0",
+        "maximum": 9959,
+        "minimum": 2757,
+        "start": 120,
+        "total": 69772
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 150,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-0",
+        "maximum": 9002,
+        "minimum": 1679,
+        "start": 150,
+        "total": 58004
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 180,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-0",
+        "maximum": 8719,
+        "minimum": 1672,
+        "start": 180,
+        "total": 61374
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 210,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-0",
+        "maximum": 9977,
+        "minimum": 2423,
+        "start": 210,
+        "total": 80501
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 240,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-0",
+        "maximum": 9061,
+        "minimum": 1218,
+        "start": 240,
+        "total": 70474
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-0",
+        "maximum": 9226,
+        "minimum": 2144,
+        "start": 270,
+        "total": 66815
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 0,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-1",
+        "maximum": 9840,
+        "minimum": 2848,
+        "start": 0,
+        "total": 80591
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 30,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-1",
+        "maximum": 9636,
+        "minimum": 2374,
+        "start": 30,
+        "total": 62648
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 60,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-1",
+        "maximum": 8503,
+        "minimum": 1112,
+        "start": 60,
+        "total": 68120
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 90,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-1",
+        "maximum": 9953,
+        "minimum": 1295,
+        "start": 90,
+        "total": 57416
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 120,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-1",
+        "maximum": 9544,
+        "minimum": 1203,
+        "start": 120,
+        "total": 77516
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 150,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-1",
+        "maximum": 8558,
+        "minimum": 2596,
+        "start": 150,
+        "total": 68496
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 180,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-1",
+        "maximum": 9675,
+        "minimum": 1320,
+        "start": 180,
+        "total": 75002
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 210,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-1",
+        "maximum": 9637,
+        "minimum": 1153,
+        "start": 210,
+        "total": 67562
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 240,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-1",
+        "maximum": 9905,
+        "minimum": 1596,
+        "start": 240,
+        "total": 65419
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-1",
+        "maximum": 8525,
+        "minimum": 1272,
+        "start": 270,
+        "total": 53908
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 0,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-2",
+        "maximum": 9321,
+        "minimum": 1131,
+        "start": 0,
+        "total": 60292
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 30,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-2",
+        "maximum": 9312,
+        "minimum": 1475,
+        "start": 30,
+        "total": 74466
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 60,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-2",
+        "maximum": 9640,
+        "minimum": 1063,
+        "start": 60,
+        "total": 58624
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 90,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-2",
+        "maximum": 9973,
+        "minimum": 2582,
+        "start": 90,
+        "total": 86856
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 120,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-2",
+        "maximum": 7909,
+        "minimum": 1094,
+        "start": 120,
+        "total": 63035
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 150,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-2",
+        "maximum": 9851,
+        "minimum": 1131,
+        "start": 150,
+        "total": 70695
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 180,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-2",
+        "maximum": 9020,
+        "minimum": 1974,
+        "start": 180,
+        "total": 64500
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 210,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-2",
+        "maximum": 7273,
+        "minimum": 1088,
+        "start": 210,
+        "total": 49957
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 240,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-2",
+        "maximum": 9014,
+        "minimum": 2737,
+        "start": 240,
+        "total": 68106
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-2",
+        "maximum": 9441,
+        "minimum": 1063,
+        "start": 270,
+        "total": 81019
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 0,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-3",
+        "maximum": 8534,
+        "minimum": 1285,
+        "start": 0,
+        "total": 63062
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 30,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-3",
+        "maximum": 9569,
+        "minimum": 1814,
+        "start": 30,
+        "total": 62015
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 60,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-3",
+        "maximum": 9840,
+        "minimum": 1292,
+        "start": 60,
+        "total": 60071
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 90,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-3",
+        "maximum": 9759,
+        "minimum": 2751,
+        "start": 90,
+        "total": 67273
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 120,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-3",
+        "maximum": 8953,
+        "minimum": 1984,
+        "start": 120,
+        "total": 66803
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 150,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-3",
+        "maximum": 9091,
+        "minimum": 1002,
+        "start": 150,
+        "total": 55209
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 180,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-3",
+        "maximum": 9310,
+        "minimum": 1040,
+        "start": 180,
+        "total": 63832
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 210,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-3",
+        "maximum": 9887,
+        "minimum": 1080,
+        "start": 210,
+        "total": 73288
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 240,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-3",
+        "maximum": 8288,
+        "minimum": 1521,
+        "start": 240,
+        "total": 58801
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-3",
+        "maximum": 9346,
+        "minimum": 1368,
+        "start": 270,
+        "total": 63726
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 0,
+      "emitted_offset": 126,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-4",
+        "maximum": 9705,
+        "minimum": 1080,
+        "start": 0,
+        "total": 68369
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 30,
+      "emitted_offset": 188,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 60,
+        "key": "sensor-4",
+        "maximum": 9430,
+        "minimum": 2201,
+        "start": 30,
+        "total": 73426
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 60,
+      "emitted_offset": 245,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 90,
+        "key": "sensor-4",
+        "maximum": 7276,
+        "minimum": 1681,
+        "start": 60,
+        "total": 58740
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 90,
+      "emitted_offset": 316,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 120,
+        "key": "sensor-4",
+        "maximum": 9405,
+        "minimum": 1089,
+        "start": 90,
+        "total": 73168
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 120,
+      "emitted_offset": 381,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 150,
+        "key": "sensor-4",
+        "maximum": 9760,
+        "minimum": 1048,
+        "start": 120,
+        "total": 53842
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 150,
+      "emitted_offset": 450,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 180,
+        "key": "sensor-4",
+        "maximum": 9135,
+        "minimum": 1706,
+        "start": 150,
+        "total": 60441
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 180,
+      "emitted_offset": 513,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 210,
+        "key": "sensor-4",
+        "maximum": 9286,
+        "minimum": 1785,
+        "start": 180,
+        "total": 62285
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 210,
+      "emitted_offset": 579,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 240,
+        "key": "sensor-4",
+        "maximum": 9632,
+        "minimum": 1561,
+        "start": 210,
+        "total": 72364
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 240,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 270,
+        "key": "sensor-4",
+        "maximum": 9178,
+        "minimum": 1403,
+        "start": 240,
+        "total": 63607
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 270,
+      "emitted_offset": 660,
+      "reason": "finish",
+      "payload": {
+        "count": 12,
+        "end": 300,
+        "key": "sensor-4",
+        "maximum": 9965,
+        "minimum": 2448,
+        "start": 270,
+        "total": 76065
+      }
+    }
+  ],
+  "clock-skew-lag-30": [
+    {
+      "key": "sensor-0",
+      "start": 0,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-0",
+        "maximum": 9939,
+        "minimum": 1933,
+        "start": 0,
+        "total": 68654
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 30,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 6,
+        "end": 60,
+        "key": "sensor-0",
+        "maximum": 6281,
+        "minimum": 2567,
+        "start": 30,
+        "total": 27041
+      }
+    },
+    {
+      "key": "sensor-0",
+      "start": 3600,
+      "emitted_offset": 661,
+      "reason": "finish",
+      "payload": {
+        "count": 1,
+        "end": 3630,
+        "key": "sensor-0",
+        "maximum": 5000,
+        "minimum": 5000,
+        "start": 3600,
+        "total": 5000
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 0,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-1",
+        "maximum": 9840,
+        "minimum": 2848,
+        "start": 0,
+        "total": 80591
+      }
+    },
+    {
+      "key": "sensor-1",
+      "start": 30,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 60,
+        "key": "sensor-1",
+        "maximum": 9636,
+        "minimum": 2660,
+        "start": 30,
+        "total": 51101
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 0,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-2",
+        "maximum": 9321,
+        "minimum": 1131,
+        "start": 0,
+        "total": 60292
+      }
+    },
+    {
+      "key": "sensor-2",
+      "start": 30,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 10,
+        "end": 60,
+        "key": "sensor-2",
+        "maximum": 8664,
+        "minimum": 1475,
+        "start": 30,
+        "total": 61340
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 0,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-3",
+        "maximum": 8534,
+        "minimum": 1285,
+        "start": 0,
+        "total": 63062
+      }
+    },
+    {
+      "key": "sensor-3",
+      "start": 30,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 11,
+        "end": 60,
+        "key": "sensor-3",
+        "maximum": 9569,
+        "minimum": 1814,
+        "start": 30,
+        "total": 59015
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 0,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 12,
+        "end": 30,
+        "key": "sensor-4",
+        "maximum": 9705,
+        "minimum": 1080,
+        "start": 0,
+        "total": 68369
+      }
+    },
+    {
+      "key": "sensor-4",
+      "start": 30,
+      "emitted_offset": 112,
+      "reason": "watermark",
+      "payload": {
+        "count": 9,
+        "end": 60,
+        "key": "sensor-4",
+        "maximum": 7828,
+        "minimum": 2201,
+        "start": 30,
+        "total": 49598
+      }
+    }
+  ]
+}
